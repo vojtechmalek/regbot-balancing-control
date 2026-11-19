@@ -17,5 +17,3 @@ We designed and simulated the controllers in MATLAB/Simulink, then ran them on t
 - `Controller.m`: controller design script
 - `Note2_Final.mlx`: MATLAB live script with the full design process
 - `regbot_1mg_full.slx`: Simulink model of the robot and controllers
-
-**Video of the robot:** *(paste the video link from the report here)*
